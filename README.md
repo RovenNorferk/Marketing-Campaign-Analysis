@@ -51,7 +51,3 @@ The project concludes with the development of a comprehensive linear regression 
 ![Dataset Image Placeholder](ROI-Summary.png) <!-- Insert the path or link to the image -->
 
 From the analysis, we observe that many campaigns correlate with the amounts collected. The tactics that were able to derive the most significant return on investment are direct sales contact. More investments and emphasis should be placed on this strategy to improve sales. The table above shows more details. These visits might be more significant due to their position in the sales cycle. However, flyers were also significant in the amount collected. Synergy between these campaigns may need exploration.
-
-Feel free to explore, adapt, and implement the knowledge gained from this project to enhance your own marketing campaigns. The generated ROI table serves as a valuable resource for presenting strategic insights to management.
-
-Happy optimizing!
